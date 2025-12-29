@@ -19,7 +19,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - 16x2 LCD display  
-- [Click here for more details.](./Projeler/Proje%201/README.md)
+- [Click here for more details.](./Projects/Project%201)
 
 ---
 
