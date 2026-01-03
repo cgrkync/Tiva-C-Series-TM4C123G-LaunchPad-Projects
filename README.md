@@ -31,7 +31,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - 16x2 LCD display  
-- [Click here for more details.](./Projeler/Proje%202/README.md)
+- [Click here for more details.](./Projects/Project%202)
 
 ---
 
@@ -43,7 +43,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - 16x2 LCD display  
-- [Click here for more details.](./Projeler/Proje%203/README.md)
+- [Click here for more details.](./Projects/Project%203)
 
 ---
 
@@ -56,7 +56,7 @@ This repository contains various projects developed using the **Tiva C Series TM
   - Tiva C Series LaunchPad  
   - LM35DZ temperature sensor  
   - 16x2 LCD display  
-- [Click here for more details.](./Projeler/Proje%204/README.md)
+- [Click here for more details.](./Projects/Project%204)
 
 ---
 
@@ -68,7 +68,7 @@ This repository contains various projects developed using the **Tiva C Series TM
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
   - External wake-up signal (e.g., button)  
-- [Click here for more details.](./Projeler/Proje%205/README.md)
+- [Click here for more details.](./Projects/Project%205)
 
 ---
 
@@ -79,7 +79,7 @@ This repository contains various projects developed using the **Tiva C Series TM
   - 100 sample points are calculated for the sine wave.
 - **Hardware Used:**
   - Tiva C Series LaunchPad  
-- [Click here for more details.](./Projeler/Proje%206/README.md)
+- [Click here for more details.](./Projects/Project%206)
 
 ---
 
@@ -121,7 +121,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
    - **Kullanılan Donanım:**
      - Tiva C Serisi LaunchPad
      - 16x2 LCD ekran
-   - [Detaylar için buraya tıklayın.](./Projeler/Proje%201/README.md)
+   - [Detaylar için buraya tıklayın.](./Projects/Project%201)
 
 ---
 
@@ -133,7 +133,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
    - **Kullanılan Donanım:**
      - Tiva C Serisi LaunchPad
      - 16x2 LCD ekran
-   - [Detaylar için buraya tıklayın.](./Projeler/Proje%202/README.md)
+   - [Detaylar için buraya tıklayın.](./Projects/Project%202)
 
 ---
 
@@ -145,7 +145,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
    - **Kullanılan Donanım:**
      - Tiva C Serisi LaunchPad
      - 16x2 LCD ekran
-   - [Detaylar için buraya tıklayın.](./Projeler/Proje%203/README.md)
+   - [Detaylar için buraya tıklayın.](./Projects/Project%203)
 
 ---
 
@@ -158,7 +158,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
      - Tiva C Serisi LaunchPad
      - LM35DZ sıcaklık sensörü
      - 16x2 LCD ekran
-   - [Detaylar için buraya tıklayın.](./Projeler/Proje%204/README.md)
+   - [Detaylar için buraya tıklayın.](./Projects/Project%204)
 
 ---
 
@@ -170,7 +170,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
    - **Kullanılan Donanım:**
      - Tiva C Serisi LaunchPad
      - Harici uyandırma sinyali (ör. buton)
-   - [Detaylar için buraya tıklayın.](./Projeler/Proje%205/README.md)
+   - [Detaylar için buraya tıklayın.](./Projects/Project%205)
 
 ---
 
@@ -181,7 +181,7 @@ Bu repo, **Tiva C Serisi TM4C123G LaunchPad** kullanılarak geliştirilmiş çe�
      - Sinüs dalgası için 100 örnekleme noktası hesaplanmıştır.
    - **Kullanılan Donanım:**
      - Tiva C Serisi LaunchPad
-   - [Detaylar için buraya tıklayın.](./Projeler/Proje%206/README.md)
+   - [Detaylar için buraya tıklayın.](./Projects/Project%206)
 
 ---
 
